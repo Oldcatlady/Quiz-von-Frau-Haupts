@@ -1,0 +1,321 @@
+
+[
+{
+"id": 1,
+"question": "Von Überbeschäftigung redet man, wenn die Arbeitslosenquote…",
+"options": {
+"A": "Zwischen 2% bis 3% liegt",
+"B": "Unter 1% liegt",
+"C": "Größer als 1 % ist",
+"D": "Ab 3% liegt"
+},
+"correctAnswer": "B",
+"explanation": "Von Überbeschäftigung spricht man, wenn nahezu Vollbeschäftigung herrscht, also die Arbeitslosenquote extrem niedrig ist (unter etwa 1%)."
+},
+{
+"id": 2,
+"question": "Was versteht man unter der Substitution im Produktionsprozess?",
+"options": {
+"A": "Die Änderung der Einsatzmenge eines Produktionsfaktors",
+"B": "Die Kombination von verschiedenen Produktionsfaktoren",
+"C": "Die Koordination von gleichartigen Produktionsfaktoren",
+"D": "Das Ersetzen eines Produktionsfaktors durch einen anderen",
+"E": "Die Änderung des Einsatzortes eines Produktionsfaktors"
+},
+"correctAnswer": "D",
+"explanation": "Substitution bedeutet, dass ein Produktionsfaktor durch einen anderen ersetzt wird, z. B. Arbeit durch Maschinen."
+},
+{
+"id": 3,
+"question": "Die Umwandlung von Geldkapital in Sachkapital ist die:",
+"options": {
+"A": "Finanzierung",
+"B": "Kapitalisierung",
+"C": "Realisierung",
+"D": "Sozialisierung",
+"E": "Investierung"
+},
+"correctAnswer": "E",
+"explanation": "Investition bedeutet, Geld in Sachkapital wie Maschinen oder Gebäude umzuwandeln."
+},
+{
+"id": 4,
+"question": "Zu welchem Produktionsfaktor gehören elektrische Schraubendreher in einer Maschinenfabrik?",
+"options": {
+"A": "Betriebsmittel",
+"B": "Ausführende Arbeit",
+"C": "Werkstoffe (Betriebsstoffe)",
+"D": "Dispositive Arbeit",
+"E": "Werkstoffe (Hilfsstoffe)"
+},
+"correctAnswer": "A",
+"explanation": "Werkzeuge zählen zu den Betriebsmitteln, da sie dauerhaft im Produktionsprozess eingesetzt werden."
+},
+{
+"id": 5,
+"question": "Arbeit in volkswirtschaftlicher Sicht ist die Leistung…",
+"options": {
+"A": "Des Kleinbauern",
+"B": "Des Hobbykünstlers",
+"C": "Des Kleingärtners",
+"D": "Einer Haushaltshilfe, die schwarz bezahlt wird"
+},
+"correctAnswer": "A",
+"explanation": "Nur entlohnte bzw. wirtschaftlich relevante Arbeit zählt. Der Kleinbauer produziert für den Markt."
+},
+{
+"id": 6,
+"question": "Den Produktionsfaktor Kapital bezeichnet man als:",
+"options": {
+"A": "Produzierte Produktionsmittel",
+"B": "Vermögensquelle",
+"C": "Finanzierungsmittel",
+"D": "Ursprünglicher Produktionsfaktor"
+},
+"correctAnswer": "A",
+"explanation": "Kapital umfasst produzierte Produktionsmittel wie Maschinen oder Anlagen."
+},
+{
+"id": 7,
+"question": "Zu den ursprünglichen Produktionsfaktoren rechnet man:",
+"options": {
+"A": "Arbeit und Kapital",
+"B": "Keine Aussage richtig",
+"C": "Kapital und Boden",
+"D": "Kapital und Arbeit"
+},
+"correctAnswer": "B",
+"explanation": "Die richtigen ursprünglichen Faktoren sind Arbeit und Boden, daher ist keine Antwort korrekt."
+},
+{
+"id": 8,
+"question": "Welcher Produktionsfaktor entsteht durch das Zusammenwirken der anderen?",
+"options": {
+"A": "Boden",
+"B": "Arbeit",
+"C": "Kapital"
+},
+"correctAnswer": "C",
+"explanation": "Kapital entsteht durch den Einsatz von Arbeit auf Boden (z. B. Maschinenproduktion)."
+},
+{
+"id": 9,
+"question": "Sonnenenergie gehört zu welchem Produktionsfaktor?",
+"options": {
+"A": "Boden",
+"B": "Arbeit",
+"C": "Kapital"
+},
+"correctAnswer": "A",
+"explanation": "Natürliche Ressourcen wie Sonnenenergie zählen zum Faktor Boden."
+},
+{
+"id": 10,
+"question": "Investitionen hängen vom Zinsniveau ab – welcher Faktor?",
+"options": {
+"A": "Boden",
+"B": "Arbeit",
+"C": "Kapital"
+},
+"correctAnswer": "C",
+"explanation": "Investitionen betreffen Kapital, da sie Sachkapital betreffen."
+},
+{
+"id": 11,
+"question": "Umschulungsmaßnahmen betreffen welchen Faktor?",
+"options": {
+"A": "Boden",
+"B": "Arbeit",
+"C": "Kapital"
+},
+"correctAnswer": "B",
+"explanation": "Umschulung betrifft die Qualifikation von Arbeitskräften."
+},
+{
+"id": 12,
+"question": "Trinkwassergewinnung gehört zu welchem Faktor?",
+"options": {
+"A": "Boden",
+"B": "Arbeit",
+"C": "Kapital"
+},
+"correctAnswer": "A",
+"explanation": "Wasser ist eine natürliche Ressource und gehört zum Boden."
+},
+{
+"id": 13,
+"question": "Lohnnebenkosten gehören zu welchem Faktor?",
+"options": {
+"A": "Boden",
+"B": "Arbeit",
+"C": "Kapital"
+},
+"correctAnswer": "B",
+"explanation": "Lohnkosten betreffen den Produktionsfaktor Arbeit."
+},
+{
+"id": 14,
+"question": "Wann handelt es sich um Betriebsmittel?",
+"options": {
+"A": "Planung einer Abteilung",
+"B": "Arbeitsleistung",
+"C": "Lagerhalle",
+"D": "Stahlbleche"
+},
+"correctAnswer": "C",
+"explanation": "Gebäude zählen zu Betriebsmitteln, da sie langfristig genutzt werden."
+},
+{
+"id": 15,
+"question": "Welche Aussage über Arbeit ist richtig?",
+"options": {
+"A": "Steigende Anforderungen an Mobilität",
+"B": "Gleichmäßig verteilt",
+"C": "Mehr Selbstständige als Arbeitnehmer",
+"D": "Arbeitslosigkeit überall gleich",
+"E": "Keine Auswirkungen"
+},
+"correctAnswer": "A",
+"explanation": "Moderne Arbeitsmärkte verlangen zunehmend Flexibilität und Mobilität."
+},
+{
+"id": 16,
+"question": "Was ist der dispositive Faktor?",
+"options": {
+"A": "Werkstoffe",
+"B": "Kapital",
+"C": "Unternehmensleistung",
+"D": "Fließbandarbeit",
+"E": "Boden",
+"F": "Betriebsmittel"
+},
+"correctAnswer": "C",
+"explanation": "Der dispositive Faktor umfasst Planung, Organisation und Leitung."
+},
+{
+"id": 17,
+"question": "Originäre Produktionsfaktoren sind Arbeit und Boden.",
+"options": {
+"A": "Wahr",
+"B": "Falsch"
+},
+"correctAnswer": "A",
+"explanation": "Arbeit und Boden sind ursprünglich vorhanden und daher originär."
+},
+{
+"id": 18,
+"question": "Die 3 klassischen Produktionsfaktoren sind:",
+"options": {
+"A": "Boden, Arbeit, Güter",
+"B": "Boden, Arbeit, Kapital",
+"C": "Beschäftigung, Produktion, Absatz",
+"D": "Investitionsgüter, Grundstoffe, Konsumgüter",
+"E": "Boden, Produktionsmittel, Kapital"
+},
+"correctAnswer": "B",
+"explanation": "Die klassischen Faktoren sind Boden, Arbeit und Kapital."
+},
+{
+"id": 19,
+"question": "Derivativ bedeutet:",
+"options": {
+"A": "Abgeleitet",
+"B": "Ursprünglich",
+"C": "Keines von beiden"
+},
+"correctAnswer": "A",
+"explanation": "Kapital ist abgeleitet, da es aus Arbeit und Boden entsteht."
+},
+{
+"id": 20,
+"question": "Wo liegt Substitution vor?",
+"options": {
+"A": "Neuer LKW nach Diebstahl",
+"B": "Kurzarbeit",
+"C": "Filteranlagen",
+"D": "Neue Fahrzeuge",
+"E": "Versetzung von Arbeitnehmern",
+"F": "Warnanlagen statt Nachtwächter"
+},
+"correctAnswer": "F",
+"explanation": "Hier wird Arbeit durch Kapital (Technik) ersetzt – klassische Substitution."
+},
+{
+"id": 21,
+"question": "Wo sind nur betriebswirtschaftliche Produktionsfaktoren?",
+"options": {
+"A": "Arbeit, Natur, Kapital",
+"B": "Betriebsmittel, Arbeit, Boden",
+"C": "Kapital, ausführende Arbeit, leitende Arbeit",
+"D": "Ausführende Arbeit, leitende Arbeit, Betriebsmittel, Werkstoffe",
+"E": "Boden, Arbeit, Kapital"
+},
+"correctAnswer": "D",
+"explanation": "Das sind die betriebswirtschaftlichen Faktoren nach Gutenberg."
+},
+{
+"id": 22,
+"question": "Welche Aussagen zu Boden sind richtig?",
+"options": {
+"A": "Mobilisierbar",
+"B": "Nicht vermehrbar",
+"C": "Frei beweglich",
+"D": "Unabhängig nutzbar",
+"E": "Nicht transportierbar",
+"F": "Beliebig vermehrbar"
+},
+"correctAnswer": "A,B,E",
+"explanation": "Boden ist begrenzt, nicht beweglich, aber Eigentum kann übertragen werden."
+},
+{
+"id": 23,
+"question": "Unternehmerisches Sparen bedeutet:",
+"options": {
+"A": "Privat sparen",
+"B": "Gewinn im Unternehmen behalten",
+"C": "Gewinnverlust durch Preise"
+},
+"correctAnswer": "B",
+"explanation": "Gewinne werden im Unternehmen einbehalten (Selbstfinanzierung)."
+},
+{
+"id": 24,
+"question": "Welcher Faktor ist derivativ?",
+"options": {
+"A": "Arbeit (körperlich/geistig)",
+"B": "Arbeit (Leistung)",
+"C": "Boden",
+"D": "Kapital",
+"E": "Aussage falsch"
+},
+"correctAnswer": "D",
+"explanation": "Kapital entsteht aus Arbeit und Boden und ist daher abgeleitet."
+},
+{
+"id": 25,
+"question": "Mittel für Investitionen nennt man:",
+"options": {
+"A": "Produktives Kapital",
+"B": "Sachkapital",
+"C": "Humankapital",
+"D": "Soziales Kapital",
+"E": "Geldkapital"
+},
+"correctAnswer": "E",
+"explanation": "Geldkapital wird für Investitionen bereitgestellt."
+},
+{
+"id": 26,
+"question": "Bedingungen zur Herstellung von Produktionsmitteln:",
+"options": {
+"A": "Kontrollieren",
+"B": "Investieren",
+"C": "Konsumieren",
+"D": "Rationalisieren",
+"E": "Sparen",
+"F": "Kommunizieren"
+},
+"correctAnswer": "B,E",
+"explanation": "Man muss sparen (Mittel bilden) und investieren (einsetzen), um Produktionsmittel zu schaffen."
+}
+]
